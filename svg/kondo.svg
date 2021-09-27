@@ -1,0 +1,12 @@
+<svg width='648.00' height='504.00' xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' viewbox = '0 0 648.00 504.00'>
+<rect fill='#000000' stroke='#000000' stroke-width='0.00px'  x='0.00' y='0.00' width='648.00' height='504.00' rx='108.00' />
+    <line stroke='#7F7F7F' stroke-width='1px' x1='0' y1='108.0' x2='648.0' y2='108.0' />
+    <line stroke='#7F7F7F' stroke-width='1px' x1='0' y1='396.0' x2='648.0' y2='396.0' />
+    <line stroke='#7F7F7F' stroke-width='1px' x1='108.0' y1='0' x2='108.0' y2='504.0' />
+    <line stroke='#7F7F7F' stroke-width='1px' x1='540.0' y1='0' x2='540.0' y2='504.0' />
+    <text fill='#0068FF' stroke='#0068FF' font-size='12px' x='126.00' y='126.00'>1. Protect joints with painter's tape on back side.</text>
+    <text fill='#0068FF' stroke='#0068FF' font-size='12px' x='126.00' y='144.00'>2. Cut lines with 90 deg V bit to material thickness.</text>
+    <text fill='#0068FF' stroke='#0068FF' font-size='12px' x='126.00' y='162.00'>3. Cut out box with 1/8 bit.</text>
+    <text fill='#0068FF' stroke='#0068FF' font-size='12px' x='126.00' y='180.00'>4. Remove corner boxes with X-acto knife, then fold and glue.</text>
+    <text fill='#0068FF' stroke='#0068FF' font-size='12px' x='126.00' y='198.00'>5. For a top, add 2 x material thickness to box length and width.</text>
+</svg>
